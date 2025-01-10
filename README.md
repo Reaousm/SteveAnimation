@@ -111,6 +111,8 @@ cd SteveAnim
     - geo：模型文件，用于定义实体的模型结构。
     - textures：纹理文件，用于定义实体的贴图效果。
 
+---
+
 ## 工作原理
 
 ![流程图.png](%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
@@ -135,6 +137,8 @@ cd SteveAnim
     - FakePlayerEntityRenderer 使用 GeckoLib 播放指定动画。
     - 动画播放完成后，任务管理器恢复玩家的正常渲染。
 
+---    
+
 ## 常见问题
 
 1. 为什么使用假玩家实体？
@@ -151,6 +155,8 @@ cd SteveAnim
     - 更新 AnimationSyncPayload 发送对应的 state。
     - 在 FakePlayerEntity 中为新状态添加对应的动画资源和播放逻辑。
 
+---
+
 ## 贡献与许可
 
 ### 贡献
@@ -164,6 +170,8 @@ cd SteveAnim
 ### 许可
 本项目采用 GNU Affero General Public License Version 3 许可协议。
 另声明，本项目只可用于非商业项目，如果需要商用，请向本人申请许可
+
+---
 
 ## 联系方式
 如果您对 SteveAnim 模组有任何问题、建议或反馈，欢迎通过以下方式联系：
