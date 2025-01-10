@@ -23,11 +23,6 @@ repositories {
             includeGroup("software.bernie.geckolib")
         }
     }
-
-    maven {
-        name "KosmX's maven"
-        url 'https://maven.kosmx.dev/'
-    }
 }
 
 dependencies {
