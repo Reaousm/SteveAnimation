@@ -1,0 +1,175 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "chuizi": {
+      "animation_length": 2,
+      "bones": {
+        "chuizi_by_GuiLoong": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.4583": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          },
+          "position": {
+            "0.0": {
+              "vector": [
+                9,
+                135,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.4583": {
+              "vector": [
+                9,
+                -6,
+                19
+              ],
+              "easing": "linear"
+            },
+            "0.875": {
+              "vector": [
+                9,
+                88,
+                6
+              ],
+              "easing": "linear"
+            },
+            "0.9583": {
+              "vector": [
+                9,
+                56,
+                44.8
+              ],
+              "easing": "linear"
+            },
+            "1.0833": {
+              "vector": [
+                9,
+                8,
+                28
+              ],
+              "easing": "linear"
+            }
+          },
+          "scale": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.2083": {
+              "vector": [
+                1,
+                1,
+                1
+              ],
+              "easing": "linear"
+            },
+            "0.4583": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.6667": {
+              "vector": [
+                1,
+                1,
+                1
+              ],
+              "easing": "linear"
+            },
+            "0.875": {
+              "vector": [
+                1.5,
+                1.5,
+                1.5
+              ],
+              "easing": "linear"
+            },
+            "1.0833": {
+              "vector": [
+                1.5,
+                1.5,
+                1.5
+              ],
+              "easing": "linear"
+            },
+            "1.125": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "chuizi_by_GuiLoong2": {
+          "rotation": {
+            "0.4583": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.875": {
+              "vector": [
+                -57.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.125": {
+              "vector": [
+                80,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "2.0": {
+              "vector": [
+                80,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "group": {},
+        "group8": {},
+        "group7": {},
+        "group6": {},
+        "group5": {},
+        "group4": {},
+        "group3": {},
+        "group2": {}
+      }
+    }
+  },
+  "geckolib_format_version": 2
+}

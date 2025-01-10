@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "steveanim",
+  "version": "${version}",
+  "name": "SteveAnim",
+  "description": "",
+  "authors": [
+    "SanseYooyea"
+  ],
+  "contact": {
+    "repo": "https://github.com/SanseYooyea/SteveAnim"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/steveanim/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "work.microhand.steveanim.client.SteveAnimClient"
+    ],
+    "main": [
+      "work.microhand.steveanim.SteveAnim"
+    ]
+  },
+  "mixins": [
+    "steveanim.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
