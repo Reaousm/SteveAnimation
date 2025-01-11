@@ -51,7 +51,7 @@
 
 ```bash
 git clone https://github.com/sanseyooyea/SteveAnimation.git
-cd SteveAnim
+cd SteveAnimation
 ```
 
 ### 3. 编译与运行
@@ -177,9 +177,9 @@ cd SteveAnim
 ---
 
 ## 联系方式
-如果您对 SteveAnim 模组有任何问题、建议或反馈，欢迎通过以下方式联系：
+如果您对 SteveAnimation 模组有任何问题、建议或反馈，欢迎通过以下方式联系：
 - QQ：1187586838
 - Email：1187586838@qq.com
 - [Github issue](https://github.com/sanseyooyea/SteveAnimation/issues)
 
-感谢您对 SteveAnim 模组的关注与支持！
+感谢您对 SteveAnimation 模组的关注与支持！
