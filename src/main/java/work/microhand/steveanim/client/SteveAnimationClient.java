@@ -18,9 +18,9 @@ import work.microhand.steveanim.common.entity.TNTEntity;
 /**
  * @author SanseYooyea
  */
-public class SteveAnimClient implements ClientModInitializer {
+public class SteveAnimationClient implements ClientModInitializer {
 
-    private static final Logger log = LoggerFactory.getLogger(SteveAnimClient.class);
+    private static final Logger log = LoggerFactory.getLogger(SteveAnimationClient.class);
 
     @Override
     public void onInitializeClient() {

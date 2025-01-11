@@ -7,8 +7,8 @@ import work.microhand.steveanim.common.network.Networking;
 /**
  * @author SanseYooyea
  */
-public class SteveAnim implements ModInitializer {
-    public static final String MOD_ID = "steveanim";
+public class SteveAnimation implements ModInitializer {
+    public static final String MOD_ID = "steveanimation";
 
     @Override
     public void onInitialize() {

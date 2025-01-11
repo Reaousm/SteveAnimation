@@ -2,7 +2,7 @@ package work.microhand.steveanim.client.model.entity;
 
 import net.minecraft.util.Identifier;
 import software.bernie.geckolib.model.DefaultedEntityGeoModel;
-import work.microhand.steveanim.SteveAnim;
+import work.microhand.steveanim.SteveAnimation;
 import work.microhand.steveanim.common.entity.TNTEntity;
 
 /**
@@ -10,6 +10,6 @@ import work.microhand.steveanim.common.entity.TNTEntity;
  */
 public class TNTEntityModel extends DefaultedEntityGeoModel<TNTEntity> {
     public TNTEntityModel() {
-        super(Identifier.of(SteveAnim.MOD_ID, "tnt"));
+        super(Identifier.of(SteveAnimation.MOD_ID, "tnt"));
     }
 }

@@ -5,7 +5,7 @@ import net.minecraft.network.codec.PacketCodec;
 import net.minecraft.network.codec.PacketCodecs;
 import net.minecraft.network.packet.CustomPayload;
 import net.minecraft.util.Identifier;
-import work.microhand.steveanim.SteveAnim;
+import work.microhand.steveanim.SteveAnimation;
 
 /**
  * @author SanseYooyea
@@ -14,7 +14,7 @@ public record AnimationSyncPayload(
         int playerId,
         String state
 ) implements CustomPayload {
-    public static final Identifier ANIM_SYNC_ID = Identifier.of(SteveAnim.MOD_ID, "animation_sync");
+    public static final Identifier ANIM_SYNC_ID = Identifier.of(SteveAnimation.MOD_ID, "animation_sync");
     public static final CustomPayload.Id<AnimationSyncPayload> ID = new CustomPayload.Id<>(ANIM_SYNC_ID);
 
     // should you need to send more data, add the appropriate record parameters and change your codec:

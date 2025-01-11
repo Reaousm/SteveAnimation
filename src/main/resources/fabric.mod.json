@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "steveanim",
+  "id": "steveanimation",
   "version": "${version}",
-  "name": "SteveAnim",
+  "name": "SteveAnimation",
   "description": "",
   "authors": [
     "SanseYooyea"
   ],
   "contact": {
-    "repo": "https://github.com/SanseYooyea/SteveAnim"
+    "repo": "https://github.com/SanseYooyea/SteveAnimation"
   },
   "license": "Apache-2.0",
   "icon": "assets/steveanim/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
-      "work.microhand.steveanim.client.SteveAnimClient"
+      "work.microhand.steveanim.client.SteveAnimationClient"
     ],
     "main": [
-      "work.microhand.steveanim.SteveAnim"
+      "work.microhand.steveanim.SteveAnimation"
     ]
   },
   "mixins": [
-    "steveanim.mixins.json"
+    "steveanimation.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
