@@ -1,10 +1,10 @@
-# SteveAnim Mod
+# SteveAnimation Mod
 
-> **SteveAnim** 是一个基于 **Minecraft 1.21.1 Fabric** 和 [GeckoLib](https://github.com/bernie-g/geckolib) 的自定义玩家动画播放模组。该模组允许在特定条件下，服务端向客户端发送动画指令，客户端根据指令播放对应的玩家动画。
+> **SteveAnimation** 是一个基于 **Minecraft 1.21.1 Fabric** 和 [GeckoLib](https://github.com/bernie-g/geckolib) 的自定义玩家动画播放模组。该模组允许在特定条件下，服务端向客户端发送动画指令，客户端根据指令播放对应的玩家动画。
 
 ## 简介
 
-**SteveAnim** 模组展示了如何在 **Fabric** 环境下，利用 **GeckoLib** 为玩家实体添加和播放自定义动画。通过服务端与客户端之间的网络同步，模组能够在满足特定条件时触发动画效果，提升游戏的互动性和视觉表现。
+**SteveAnimation** 模组展示了如何在 **Fabric** 环境下，利用 **GeckoLib** 为玩家实体添加和播放自定义动画。通过服务端与客户端之间的网络同步，模组能够在满足特定条件时触发动画效果，提升游戏的互动性和视觉表现。
 
 主要功能包括：
 
@@ -50,7 +50,7 @@
 ### 2. 获取源码
 
 ```bash
-git clone https://github.com/sanseyooyea/SteveAnim.git
+git clone https://github.com/sanseyooyea/SteveAnimation.git
 cd SteveAnim
 ```
 
@@ -59,7 +59,7 @@ cd SteveAnim
 ```bash
 ./gradlew build
 ````
-然后将生成的 `SteveAnim-1.0.0.jar` 文件以及 `Geckolib` 放置到 Minecraft 的 `mods` 目录下，启动游戏即可。
+然后将生成的 `SteveAnimation-1.0.0.jar` 文件以及 `Geckolib` 放置到 Minecraft 的 `mods` 目录下，启动游戏即可。
 
 ## 代码结构
 ``` bash
@@ -180,6 +180,6 @@ cd SteveAnim
 如果您对 SteveAnim 模组有任何问题、建议或反馈，欢迎通过以下方式联系：
 - QQ：1187586838
 - Email：1187586838@qq.com
-- [Github issue](https://github.com/sanseyooyea/SteveAnim/issues)
+- [Github issue](https://github.com/sanseyooyea/SteveAnimation/issues)
 
 感谢您对 SteveAnim 模组的关注与支持！
