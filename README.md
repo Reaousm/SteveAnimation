@@ -170,6 +170,12 @@ cd SteveAnim
 
 ---
 
+## 致谢
+
+感谢[AnECanSaiTin](https://github.com/AnECanSaiTin)提供的技术支持和指导
+
+---
+
 ## 联系方式
 如果您对 SteveAnim 模组有任何问题、建议或反馈，欢迎通过以下方式联系：
 - QQ：1187586838
