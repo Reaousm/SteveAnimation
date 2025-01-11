@@ -166,7 +166,7 @@ cd SteveAnimation
 
 ### 许可
 本项目采用 GNU Affero General Public License Version 3 许可协议。
-另声明，本项目只可用于非商业项目，如果需要商用，请向本人申请许可
+另声明，本项目只可用于非商业项目供学习参考，如果需要商用，请向本人申请许可
 
 ---
 
