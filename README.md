@@ -1,5 +1,7 @@
 # SteveAnimation Mod
 
+> 本 Mod 属于定制Mod，由于定制者未付款跑路，现将其开源，供大家学习参考
+
 > **SteveAnimation** 是一个基于 **Minecraft 1.21.1 Fabric** 和 [GeckoLib](https://github.com/bernie-g/geckolib) 的自定义玩家动画播放模组。该模组允许在特定条件下，服务端向客户端发送动画指令，客户端根据指令播放对应的玩家动画。
 
 ## 简介
